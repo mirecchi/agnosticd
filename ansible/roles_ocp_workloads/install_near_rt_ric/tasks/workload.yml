@@ -29,7 +29,10 @@
       {{install_near_rt_ric_deploy_argocd_namespace_operator_catalog_image }}
     install_operator_catalogsource_image_tag: >-
       {{ install_near_rt_ric_deploy_argocd_namespace_operator_catalog_image_tag }}
-
+#     
+#
+./near_rt_ric_installation_steps
+#
 # Leave this as the last task in the playbook.
 # --------------------------------------------
 - name: workload tasks complete
