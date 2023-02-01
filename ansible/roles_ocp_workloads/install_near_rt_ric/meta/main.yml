@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  role_name: install_near_rt_ric
+  author: Lebron James
+  description: |
+    Set up required objects for near-rt ric installation
+  license: MIT
+  min_ansible_version: 2.9
+  platforms: []
+  galaxy_tags:
+  - ocp
+  - openshift
+dependencies: []
