@@ -1,1 +1,4 @@
-mkdir /opt/oran
+- name: Creates directory
+  file:
+    path: /opt/ran
+    state: directory
