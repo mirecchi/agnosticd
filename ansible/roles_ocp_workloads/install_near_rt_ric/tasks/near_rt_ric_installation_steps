@@ -1,0 +1,13 @@
+create_working_directory.yml
+enable_sctp.yml
+install_helm_v34.yml
+get_oran_sc.yml
+set_storage_class.yml
+create_helm_local_repo.yml
+run_chartmuseum.yml
+add_local_repository.yml
+apply_ric_security_context_constraints.yml
+creat_apply_patches.yml
+run_installer.yml
+verify_pods_running.yml
+uninstall_procedure.yml
